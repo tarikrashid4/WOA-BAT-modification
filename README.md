@@ -1,6 +1,7 @@
 
 # WOA-BAT-modification
-Cite as
+Cite as:
+
 Hardi M. Mohammed, Shahla U. Umar, and Tarik A. Rashid (2019). A Systematic and Meta-Analysis Survey of Whale Optimization Algorithm, Computational Intelligence and Neuroscience, vol. 2019, Article ID 8718571, 25 pages. https://doi.org/10.1155/2019/8718571.
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
